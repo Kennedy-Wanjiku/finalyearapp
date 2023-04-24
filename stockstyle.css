@@ -1,0 +1,26 @@
+
+.tab{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+p.parag{
+	color:Blue;
+	font-size:30px;
+	font-style:bold;
+	bg-color:transparent;
+	}
+p{
+	color:black;
+	font-style:bold;
+	bg-color:orange;
+	font-size:25px;
+	}
+

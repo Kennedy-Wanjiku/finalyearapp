@@ -1,0 +1,15 @@
+pandas 
+numpy 
+matplotlib
+sklearn
+kerasstreamlit
+tensorflow 
+yfinance 
+textblob 
+pandas_datareader 
+requests
+bs4 
+BeautifulSoup
+re
+textblob import TextBlob
+streamlit
